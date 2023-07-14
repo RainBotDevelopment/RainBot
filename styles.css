@@ -1,0 +1,47 @@
+/* CSS styles for RainBot website */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #007bff;
+  color: #fff;
+  padding: 20px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #f9f9f9;
+}
+
+nav ul li {
+  float: left;
+}
+
+nav ul li a {
+  display: block;
+  padding: 15px;
+  text-decoration: none;
+  color: #333;
+}
+
+nav ul li a:hover {
+  background-color: #e5e5e5;
+}
+
+main {
+  padding: 20px;
+}
+
+footer {
+  background-color: #f9f9f9;
+  padding: 10px;
+  text-align: center;
+}
+
+/* Add more CSS styles as needed */
